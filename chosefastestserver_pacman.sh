@@ -1,3 +1,4 @@
+#source https://wiki.archlinux.org/title/mirrors#Sorting_mirrors
 echo -e "\e[0;31m    ___  ___    _                      _                _        \e[0m"
 echo -e "\e[0;91m   |   \/   |  |_|            _____   | |              | |   _   \e[0m"
 echo -e "\e[0;93m   | |\  /| |   _    _____   |  ___|  | |              | |  / /  \e[0m"
