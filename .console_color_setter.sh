@@ -1,0 +1,21 @@
+#avaliable colors
+black="\e[30m"
+red="\e[31m"
+green="\e[32m"
+yellow="\e[33m"
+blue="\e[34m"
+magenta="\e[35m"
+cyan="\e[36m"
+gray="\e[90m"
+white="\e[97m"
+light_red="\e[91m"
+light_green="\e[92m"
+light_yellow="\e[93m"
+light_blue="\e[94m"
+light_magenta="\e[95m"
+light_cyan="\e[96m"
+light_gray="\e[37m"
+end="\e[0m"
+
+export PS1="${red}[\d]${end}${light_yellow}[\@]${end}${green}[\w]${end}${light_blue}[\u]${end}${magenta}[${end}\#${magenta}]${end}\$"
+
